@@ -5,7 +5,7 @@ import os
 forbidden_words = [
     " anomalo ", " checca ", " chiappa ", " culattone ", " finocchi ",
     "finocchietto ", "finocchio ", "frocio ", "invertito ",
-    "stesso sesso", "travestiti", "travestito ", "frocia ", "ricchione ", "ricchioni "
+    "stesso sesso", "travestiti", "travestito ", "frocia ", "ricchione ", "ricchioni ", "trans "
 ]
 
 
