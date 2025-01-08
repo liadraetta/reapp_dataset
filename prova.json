@@ -1,0 +1,551 @@
+[
+  {
+    "created_at": "Fri Dec 31 23:05:12 +0000 2021",
+    "id": 1477053252319469600,
+    "id_str": "1477053252319469574",
+    "text": "RT @fairychaery: so to vendo transfobia nessa call #TretaBlink\n\nhttps://t.co/FvanGaNalk",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 954838467825098800,
+      "id_str": "954838467825098752",
+      "name": "Jomiguel ~ Main Rapper Madrigal",
+      "screen_name": "jomiguel101",
+      "location": null,
+      "url": "https://instagram.com/jomiguel101?igshid=1mw4bnlmilq3v",
+      "description": "(ele/dele)🇧🇷\n-eu desenho, nem sempre posto-\n✨Hey✨",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 78,
+      "friends_count": 185,
+      "listed_count": 0,
+      "favourites_count": 21623,
+      "statuses_count": 12615,
+      "created_at": "Sat Jan 20 22:10:05 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1475206601128751117/DEYrclkk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1475206601128751117/DEYrclkk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/954838467825098752/1640551636",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Dec 31 20:38:07 +0000 2021",
+      "id": 1477016238073208800,
+      "id_str": "1477016238073208835",
+      "text": "so to vendo transfobia nessa call #TretaBlink\n\nhttps://t.co/FvanGaNalk",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1396485057490133000,
+        "id_str": "1396485057490132998",
+        "name": "tha who are you",
+        "screen_name": "fairychaery",
+        "location": "@jisoolesb te amo",
+        "url": null,
+        "description": "eu e itzy fazendo festa do pijama",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 482,
+        "friends_count": 462,
+        "listed_count": 3,
+        "favourites_count": 4642,
+        "statuses_count": 3427,
+        "created_at": "Sun May 23 15:16:09 +0000 2021",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1474862884580737028/1JVtwQhf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1474862884580737028/1JVtwQhf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396485057490132998/1640469687",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TretaBlink",
+            "indices": [
+              34,
+              45
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FvanGaNalk",
+            "expanded_url": "https://twitter.com/i/spaces/1OyKADkzZYbxb",
+            "display_url": "twitter.com/i/spaces/1OyKA…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "it"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TretaBlink",
+          "indices": [
+            51,
+            62
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FvanGaNalk",
+          "expanded_url": "https://twitter.com/i/spaces/1OyKADkzZYbxb",
+          "display_url": "twitter.com/i/spaces/1OyKA…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "fairychaery",
+          "name": "tha who are you",
+          "id": 1396485057490133000,
+          "id_str": "1396485057490132998",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1640991912332"
+  },
+  {
+    "created_at": "Sat Jan 01 00:14:33 +0000 2022",
+    "id": 1477070706932392000,
+    "id_str": "1477070706932391947",
+    "text": "@afromalefica Non c'è trans nelle sue parole, solo verità. Ha solo detto che donne e donne trans hanno esperie… https://t.co/55IwV7iDdu",
+    "display_text_range": [
+      14,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1471791775597711400,
+    "in_reply_to_status_id_str": "1471791775597711361",
+    "in_reply_to_user_id": 2762139395,
+    "in_reply_to_user_id_str": "2762139395",
+    "in_reply_to_screen_name": "afromalefica",
+    "user": {
+      "id": 789134837978390500,
+      "id_str": "789134837978390528",
+      "name": "Valerio Venturi",
+      "screen_name": "V94Valerio",
+      "location": "Collepepe",
+      "url": null,
+      "description": "socialdemocratico, neokeynesiano, utilitarista, europeista, tecnocratico, specista.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 117,
+      "friends_count": 260,
+      "listed_count": 1,
+      "favourites_count": 93468,
+      "statuses_count": 11644,
+      "created_at": "Thu Oct 20 16:03:01 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/913055566087491584/5gQLSOZQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/913055566087491584/5gQLSOZQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/789134837978390528/1506524396",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "@afromalefica Non c'è trans nelle sue parole, solo verità. Ha solo detto che donne e donne trans hanno esperienze diverse, sfido chiunque a negarlo.",
+      "display_text_range": [
+        14,
+        153
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "afromalefica",
+            "name": "coochie monster",
+            "id": 2762139395,
+            "id_str": "2762139395",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/55IwV7iDdu",
+          "expanded_url": "https://twitter.com/i/web/status/1477070706932391947",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "afromalefica",
+          "name": "coochie monster",
+          "id": 2762139395,
+          "id_str": "2762139395",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1640996073836"
+  },
+  {
+    "created_at": "Sat Jan 01 09:38:25 +0000 2022",
+    "id": 1477212608411299800,
+    "id_str": "1477212608411299841",
+    "text": "Neanche una parola sul percorso legislativo e associativo contro l’omolesbotransfobia, sui motivi alla base del #SCIOPEROgenerale.",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1477212606289039400,
+    "in_reply_to_status_id_str": "1477212606289039372",
+    "in_reply_to_user_id": 1038418294288592900,
+    "in_reply_to_user_id_str": "1038418294288592896",
+    "in_reply_to_screen_name": "ricangius",
+    "user": {
+      "id": 1038418294288592900,
+      "id_str": "1038418294288592896",
+      "name": "Riccardo Angius",
+      "screen_name": "ricangius",
+      "location": "Veneto, Italy 📈⌛️🐝🏘🌳",
+      "url": "https://linktr.ee/ricangius",
+      "description": "data intersectionalist @UniPadova @AttiviamociUp ex @UnivCa @ReteConoscenza data science, human rights, participation for sust democracy. plant-based 🏳️‍🌈",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 467,
+      "friends_count": 3015,
+      "listed_count": 4,
+      "favourites_count": 23490,
+      "statuses_count": 4134,
+      "created_at": "Sat Sep 08 13:26:29 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "21A73D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1451568052101947396/VUF4q-AS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451568052101947396/VUF4q-AS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1038418294288592896/1572240110",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SCIOPEROgenerale",
+          "indices": [
+            112,
+            129
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1641029905785"
+  },
+  {
+    "created_at": "Sat Jan 01 11:21:27 +0000 2022",
+    "id": 1477238535832981500,
+    "id_str": "1477238535832981504",
+    "text": "@Maurizi96745767 @matteorenzi Togliere l'identità di genere da una legge contro l'omotransfobia è come togliere gli… https://t.co/HwU8Fi8Z2k",
+    "display_text_range": [
+      30,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1477237650474033200,
+    "in_reply_to_status_id_str": "1477237650474033153",
+    "in_reply_to_user_id": 1384629741890703400,
+    "in_reply_to_user_id_str": "1384629741890703361",
+    "in_reply_to_screen_name": "Maurizi96745767",
+    "user": {
+      "id": 1116742229144604700,
+      "id_str": "1116742229144604672",
+      "name": "Gimmoriso'",
+      "screen_name": "Favollo2",
+      "location": "Missionaria classica ",
+      "url": null,
+      "description": "Se una mattina ti svegli e non vedi più il sole, o sei morto o apri le persiane: bria'o.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 549,
+      "friends_count": 1722,
+      "listed_count": 1,
+      "favourites_count": 19583,
+      "statuses_count": 7535,
+      "created_at": "Fri Apr 12 16:37:50 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1321396840118575106/JulVfGBo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321396840118575106/JulVfGBo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1116742229144604672/1603880651",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "@Maurizi96745767 @matteorenzi Togliere l'identità di genere da una legge contro l'omotransfobia è come togliere gli ebrei o i neri da una legge contro i crimini razziali. Non è compromesso, è discriminazione. È tutta qui la tua sinistra? Chi sarebbe il democristiano? Ipocrisia portami via.",
+      "display_text_range": [
+        30,
+        290
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "Maurizi96745767",
+            "name": "IlCritico2",
+            "id": 1384629741890703400,
+            "id_str": "1384629741890703361",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "matteorenzi",
+            "name": "Matteo Renzi",
+            "id": 18762875,
+            "id_str": "18762875",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/HwU8Fi8Z2k",
+          "expanded_url": "https://twitter.com/i/web/status/1477238535832981504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Maurizi96745767",
+          "name": "IlCritico2",
+          "id": 1384629741890703400,
+          "id_str": "1384629741890703361",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "matteorenzi",
+          "name": "Matteo Renzi",
+          "id": 18762875,
+          "id_str": "18762875",
+          "indices": [
+            17,
+            29
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1641036087364"
+  }
+]
